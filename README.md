@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📊 Customer Churn Analysis Dashboard
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F2C811&text=Power%20BI%20Dashboard&fontSize=45&fontColor=000000"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=F2C811&center=true&vCenter=true&width=900&lines=Power+BI+Customer+Churn+Analysis;Interactive+Business+Dashboard;Customer+Retention+Analytics;Data-Driven+Decision+Making"/>
 
 <br>
